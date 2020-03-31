@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 竹友集
-#+DATE: 2020-03-31 11:34:13.528970
+#+DATE: 2020-03-31 11:34:13.623219
 #+PROPERTY: ID KR4d0119
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 7
 <pb:KR4d0119_WYG_007-1a>¶
 　　欽定四庫全書¶
@@ -195,7 +195,7 @@
 ¶
 　　編鬚将取蝟毛磔裁管縳成雞距長誰言䑕鬚不足齒¶
 <pb:KR4d0119_WYG_007-8a>¶
-也復論功翰&KR0472;塲¶
+也復論功翰墨塲¶
 ¶
 　　山間(四首)¶
 ¶

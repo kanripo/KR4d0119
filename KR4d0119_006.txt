@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 竹友集
-#+DATE: 2020-03-31 11:34:13.522761
+#+DATE: 2020-03-31 11:34:13.616832
 #+PROPERTY: ID KR4d0119
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 6
 <pb:KR4d0119_WYG_006-1a>¶
 　　欽定四庫全書¶
@@ -211,7 +211,7 @@
 　　寄王立之(二首)¶
 ¶
 <pb:KR4d0119_WYG_006-8b>¶
-　　坎𡒄修門裡蕭條處士廬憎人玉川子憤世竹林書家¶
+　　坎壈修門裡蕭條處士廬憎人玉川子憤世竹林書家¶
 有來禽帖門無載酒車諸公生死隔不是故人踈¶
 ¶
 　　舌本初傳强仍聞右臂枯經春一旬臥見客二兒扶吾¶

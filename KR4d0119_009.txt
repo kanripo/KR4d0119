@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 竹友集
-#+DATE: 2020-03-31 11:34:13.545422
+#+DATE: 2020-03-31 11:34:13.634531
 #+PROPERTY: ID KR4d0119
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 9
 <pb:KR4d0119_WYG_009-1a>¶
 　　欽定四庫全書¶
@@ -123,8 +123,8 @@
 <pb:KR4d0119_WYG_009-6b>¶
 曰竹友而為之銘銘曰¶
 ¶
-　　層氷峨峨萬木被雪我觀兹竹勁氣貞節桃李其華&KR0177;¶
-&KR0177;中林我觀兹竹凈緑寒隂惟竹有材可管可籩斤斧¶
+　　層氷峨峨萬木被雪我觀兹竹勁氣貞節桃李其華燁¶
+燁中林我觀兹竹凈緑寒隂惟竹有材可管可籩斤斧¶
 勿侵以保天年我掛我冠與竹燕休飬成嘉實鳴鳯來¶
 㳺¶
 ¶

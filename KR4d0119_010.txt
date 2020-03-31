@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 竹友集
-#+DATE: 2020-03-31 11:34:13.551956
+#+DATE: 2020-03-31 11:34:13.638755
 #+PROPERTY: ID KR4d0119
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 10
 <pb:KR4d0119_WYG_010-1a>¶
 　　欽定四庫全書¶
@@ -138,7 +138,7 @@
 凍饑迨其旋返病不能支我侍兄行逆旅謁醫撡藥饋¶
 漿鮮克以時從者息肩哭聲在幃嗚呼我不忍思尚忍¶
 <pb:KR4d0119_WYG_010-7b>¶
-言之兄之詩文為世所&KR0575;廣微之書以遺後人欲銘其¶
+言之兄之詩文為世所珍廣微之書以遺後人欲銘其¶
 藏必得名世我未徃求書石以識載我以尊酌以祖行¶
 肺肝塌然有泪如渑¶
 ¶
